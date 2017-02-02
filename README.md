@@ -152,3 +152,6 @@ W+_ΩB = W_ΩB + η * δ_B * in_Ω
 W+_λC = W_λC + η * δ_C * in_λ
 W+_ΩC = W_ΩC + η * δ_C * in_Ω
 ```
+
+## Credits
+A chapter from this [book](https://www.fer.unizg.hr/_download/repository/BP_chapter3_-_bp.pdf)
